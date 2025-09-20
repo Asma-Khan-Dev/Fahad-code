@@ -1,7 +1,11 @@
 function FuncComponent(){
 
     return  (
-        <h1>This is my first functional component </h1>
+       <div>
+         <h1>This is my first functional component </h1>
+        <p>Hello my first website</p>
+    
+       </div>
     )
 
 }
